@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Keep example configuration
+!.env.example
+
+# Test and experiment outputs
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated files
+results.csv
+retrieval_experiments.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/

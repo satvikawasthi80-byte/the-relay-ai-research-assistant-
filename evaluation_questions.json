@@ -1,0 +1,17 @@
+[
+  "What is the main contribution of Attention Is All You Need?",
+  "How is scaled dot-product attention computed?",
+  "What is the purpose of multi-head attention?",
+  "Why are positional encodings used in the Transformer?",
+  "What is the role of the encoder and decoder?",
+  "What is Moshi?",
+  "What does the Moshi paper say about real-time dialogue?",
+  "What architecture or components are described for Moshi?",
+  "What evaluation results does the Moshi paper report?",
+  "What is dynamic chunking?",
+  "What problem does Dynamic Chunking for End-to-End Hierarchical Sequence Modeling address?",
+  "How does the paper describe hierarchical sequence modeling?",
+  "What experiments are reported in the dynamic chunking paper?",
+  "What limitations are explicitly acknowledged by the authors?",
+  "What is Groq's free-tier daily token quota?"
+]

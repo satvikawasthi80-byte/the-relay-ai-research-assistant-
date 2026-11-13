@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main contribution of Attention Is All You Need?",
+    "expected_paper": "attention_is_all_you_need_v7.pdf",
+    "expected_topic": "Transformer architecture"
+  },
+  {
+    "id": 2,
+    "question": "How does self-attention work in the Transformer?",
+    "expected_paper": "attention_is_all_you_need_v7.pdf",
+    "expected_topic": "Self-attention mechanism"
+  },
+  {
+    "id": 3,
+    "question": "What is the role of multi-head attention?",
+    "expected_paper": "attention_is_all_you_need_v7.pdf",
+    "expected_topic": "Multi-head attention"
+  },
+  {
+    "id": 4,
+    "question": "What is Moshi and what problem does it address?",
+    "expected_paper": "moshi_v1.pdf",
+    "expected_topic": "Speech-text foundation model"
+  },
+  {
+    "id": 5,
+    "question": "How does Moshi support real-time dialogue?",
+    "expected_paper": "moshi_v1.pdf",
+    "expected_topic": "Real-time dialogue"
+  },
+  {
+    "id": 6,
+    "question": "What is the main idea of Dynamic Chunking?",
+    "expected_paper": "dynamic_chunking_v2.pdf",
+    "expected_topic": "Dynamic chunking"
+  },
+  {
+    "id": 7,
+    "question": "What is the purpose of hierarchical sequence modeling?",
+    "expected_paper": "dynamic_chunking_v2.pdf",
+    "expected_topic": "Hierarchical sequence modeling"
+  },
+  {
+    "id": 8,
+    "question": "What are the limitations of the methods described in the supplied papers?",
+    "expected_paper": "all",
+    "expected_topic": "Limitations"
+  }
+]
